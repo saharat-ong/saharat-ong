@@ -16,7 +16,7 @@
 - **[KBU Smart](https://smart.kbu.ac.th)** พอร์ทัลรวมบริการสำหรับนักศึกษาและบุคลากร
   - **Nexus** API กลางและ OAuth server ที่อยู่เบื้องหลัง SSO, ระบบแชต และผู้ช่วย AI KBUddy
   - **Hub** ศูนย์รวมที่เชื่อมบริการต่าง ๆ ของ KBU Smart เข้าด้วยกัน
-- **KBU SSO** ([sso.kbu.ac.th](https://sso.kbu.ac.th)) ระบบล็อกอินครั้งเดียว (OAuth 2.0) ที่ใช้กับทุกบริการของมหาวิทยาลัย
+- **KBU SSO** ระบบล็อกอินครั้งเดียว (OAuth 2.0) ที่ใช้กับทุกบริการของมหาวิทยาลัย
 - **KBU Smart Mobile** แอป iOS และ Android ที่เชื่อมกับ SSO และพอร์ทัล KBU Smart · [App Store](https://apps.apple.com/us/app/kbu-smart/id1506740386) · [Google Play](https://play.google.com/store/apps/details?id=com.rinary.kbusmart&hl=th)
 - **[KBU HRD](https://hrd.kbu.ac.th)** ระบบงานบุคคลและพัฒนาบุคลากร
 - **[เว็บไซต์มหาวิทยาลัย](https://kbu.ac.th)** ดูแลเว็บไซต์หลักและเซิร์ฟเวอร์
@@ -45,7 +45,7 @@ Built for Kasem Bundit University through Rinary
 - **[KBU Smart](https://smart.kbu.ac.th)** A unified services portal for students and staff
   - **Nexus** The core API and OAuth server behind SSO, chat, and the KBUddy AI assistant
   - **Hub** The hub that connects KBU Smart's services together
-- **KBU SSO** ([sso.kbu.ac.th](https://sso.kbu.ac.th)) Single sign-on (OAuth 2.0) for every university service
+- **KBU SSO** Single sign-on (OAuth 2.0) for every university service
 - **KBU Smart Mobile** iOS and Android app connected to SSO and the KBU Smart portal · [App Store](https://apps.apple.com/us/app/kbu-smart/id1506740386) · [Google Play](https://play.google.com/store/apps/details?id=com.rinary.kbusmart&hl=th)
 - **[KBU HRD](https://hrd.kbu.ac.th)** Human resources and staff development system
 - **[University website](https://kbu.ac.th)** Maintaining the main website and its servers
